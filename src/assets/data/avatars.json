@@ -1,0 +1,41 @@
+[{
+        "id": 1,
+        "url": "assets/avatars/woman-african.png"
+    },
+    {
+        "id": 2,
+        "url": "assets/avatars/dinosaur.jpg"
+    },
+    {
+        "id": 3,
+        "url": "assets/avatars/woman-blue.png"
+    },
+    {
+        "id": 4,
+        "url": "assets/avatars/woman-luz.jpg"
+    },
+    {
+        "id": 5,
+        "url": "assets/avatars/niña-indigena.jpg"
+    },
+    {
+        "id": 6,
+        "url": "assets/avatars/man-african.jpg"
+    },
+    {
+        "id": 7,
+        "url": "assets/avatars/naruto-niño.jpg"
+    },
+    {
+        "id": 8,
+        "url": "assets/avatars/man-indigena.png"
+    },
+    {
+        "id": 9,
+        "url": "assets/avatars/naruto-niña.jpg"
+    },
+    {
+        "id": 10,
+        "url": "assets/avatars/woman-nature.jpg"
+    }
+]

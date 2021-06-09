@@ -1,0 +1,32 @@
+mat-card-content {
+    display: flex;
+    padding: 0 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+.img--user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info--user {
+    margin-left: 50px;
+}
+
+@media (max-width: 600px) {
+    mat-card-content {
+        display: block;
+        padding: 0 0px;
+    }
+    .info--user {
+        margin-top: 40px;
+    }
+}
